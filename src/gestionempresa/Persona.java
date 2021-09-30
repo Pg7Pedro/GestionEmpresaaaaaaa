@@ -5,10 +5,6 @@
  */
 package gestionempresa;
 
-/**
- *
- * @author gemam
- */
 public class Persona {
     protected String nombre, direccion;
     protected char genero;

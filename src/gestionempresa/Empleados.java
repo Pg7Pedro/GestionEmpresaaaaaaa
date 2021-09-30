@@ -5,10 +5,6 @@
  */
 package gestionempresa;
 
-/**
- *
- * @author gemam
- */
 public class Empleados extends Persona{
     private int idEmpleado;
     private double sueldo;

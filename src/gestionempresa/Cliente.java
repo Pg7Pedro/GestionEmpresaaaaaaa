@@ -7,10 +7,7 @@ package gestionempresa;
 
 import java.util.Date;
 
-/**
- *
- * @author gemam
- */
+
 public class Cliente extends Persona{
     private int idCliente;
     private Date fechaRegistro;
